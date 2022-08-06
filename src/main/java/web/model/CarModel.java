@@ -1,4 +1,4 @@
-package Car;
+package web.model;
 
 public class CarModel {
     private int number;
